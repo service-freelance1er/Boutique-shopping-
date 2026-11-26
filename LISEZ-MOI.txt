@@ -1,0 +1,17 @@
+# SHOPPING — Boutique de vêtements
+
+## Publier sur GitHub Pages
+1. Décompressez `SHOPPING-boutique.zip`.
+2. Ouvrez votre dépôt GitHub.
+3. Cliquez sur **Add file > Upload files**.
+4. Envoyez `index.html` à la racine du dépôt, puis cliquez sur **Commit changes**.
+5. Dans **Settings > Pages**, choisissez la branche `main` et le dossier `/ (root)`, puis enregistrez.
+
+## Personnalisation
+- Le site comporte un tableau de bord accessible avec l'icône de réglages en haut.
+- Vous pouvez ajouter, modifier et supprimer des produits, définir leurs prix et leurs images.
+- Le numéro WhatsApp prérempli est `21655061653`.
+- La devise est réglée par défaut sur `TND` et peut être changée dans le tableau de bord.
+
+## Important
+Ce site est statique : le panier et les réglages du tableau de bord sont enregistrés dans le navigateur (LocalStorage) de l'appareil utilisé. Les changements faits dans ce tableau de bord ne modifient pas automatiquement le fichier publié sur GitHub et ne se synchronisent pas entre les appareils. Pour publier les changements pour tous les visiteurs, modifiez `index.html` puis renvoyez-le sur GitHub. Les liens Google Fonts, Font Awesome et les photos externes nécessitent une connexion Internet.
